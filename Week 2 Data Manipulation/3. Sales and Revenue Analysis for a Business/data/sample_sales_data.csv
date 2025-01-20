@@ -1,0 +1,11 @@
+ date,product_name,quantity,revenue,region
+2024-01-01 09:30:00,Laptop Pro,5,5000,North
+2024-01-01 14:15:00,Smartphone X,3,2100,South
+2024-01-02 10:45:00,Tablet Mini,7,3500,East
+2024-01-02 16:20:00,Laptop Pro,4,4000,West
+2024-01-03 11:00:00,Smart Watch,6,1800,North
+2024-01-03 13:30:00,Smartphone X,8,5600,South
+2024-01-04 15:45:00,Tablet Mini,3,1500,East
+2024-01-04 17:20:00,Smart Watch,5,1500,West
+2024-01-05 09:15:00,Laptop Pro,2,2000,North
+2024-01-05 14:45:00,Smartphone X,4,2800,South 

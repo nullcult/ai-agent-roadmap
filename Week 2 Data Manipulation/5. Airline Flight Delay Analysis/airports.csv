@@ -1,0 +1,21 @@
+IATA,LATITUDE,LONGITUDE,AIRPORT_NAME
+ATL,33.6367,-84.4281,Hartsfield-Jackson Atlanta International
+LAX,33.9425,-118.4081,Los Angeles International
+ORD,41.9786,-87.9048,Chicago O'Hare International
+DFW,32.8968,-97.038,Dallas/Fort Worth International
+DEN,39.8561,-104.6737,Denver International
+JFK,40.6398,-73.7789,John F. Kennedy International
+SFO,37.6188,-122.3756,San Francisco International
+SEA,47.4499,-122.3117,Seattle-Tacoma International
+LAS,36.084,-115.1537,McCarran International
+MCO,28.4294,-81.3089,Orlando International
+EWR,40.6925,-74.1687,Newark Liberty International
+CLT,35.214,-80.9431,Charlotte Douglas International
+PHX,33.4342,-112.008,Phoenix Sky Harbor International
+IAH,29.9844,-95.3414,George Bush Intercontinental
+MIA,25.7932,-80.2906,Miami International
+BOS,42.3656,-71.0096,Logan International
+MSP,44.882,-93.2218,Minneapolis-Saint Paul International
+DTW,42.2124,-83.3534,Detroit Metropolitan
+FLL,26.0725,-80.1527,Fort Lauderdale-Hollywood International
+PHL,39.8721,-75.2405,Philadelphia International
